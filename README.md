@@ -56,4 +56,4 @@ python main.py
 
 ## License
 
-[Specify your license here]
+[GPL-3.0 license](./LICENSE)
